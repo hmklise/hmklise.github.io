@@ -30,7 +30,7 @@
 <a href="http://GBIF.org">GBIF.org</a> (20 April 2020) GBIF Occurrence Download <a href="https://doi.org/10.15468/dl.gnpapz">https://doi.org/10.15468/dl.gnpapz</a></p>
 <hr>
 <h3 id="further-resources">Further Resources:</h3>
-<p>Sea turtle species tracked at <a href="http://www.seaturtle.org/tracking/">seaturtle.org</a>: Hawksbill, Loggerhead, Green Turtle, Olive Ridley, Kemp’s Ridley, and Flatback.<br>
+<p>Sea turtle species tracked at <a href="http://www.seaturtle.org/tracking/">seaturtle.org:</a> Hawksbill, Loggerhead, Green Turtle, Olive Ridley, Kemp’s Ridley, and Flatback.<br>
 Uberti also wrote a book with James Cheshire, which further details and explores technologies used to track animal migrations: Cheshire, James &amp; Uberti, Oliver. (2017). Where the animals go: Tracking wildlife with technology in 50 maps and graphics. W. W. Norton &amp; Company.</p>
 <hr>
 <h3 id="walking-through-the-code">Walking through the code:</h3>
